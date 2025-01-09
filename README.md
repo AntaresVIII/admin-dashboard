@@ -1,0 +1,1 @@
+Admin Dashboard project as part of the Full Stack Javascript curriculum on The Odin Project.
